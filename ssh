@@ -4,5 +4,6 @@ IP-CIDR,52.41.208.76/32,no-resolve
 IP-CIDR,52.41.208.76/32,no-resolve
 IP-CIDR,18.237.250.120/32,no-resolve
 IP-CIDR,18.237.250.120/32,no-resolve
+IP-CIDR,54.191.204.188/32,no-resolve
 
 DOMAIN-SUFFIX,tcp.ngrok.io
