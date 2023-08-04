@@ -1,5 +1,16 @@
+DOMAIN,api-js.mixpanel.com
 DOMAIN-SUFFIX,k8slens.dev
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,sysdig.com
 DOMAIN-SUFFIX,readthedocs.io
-
+IP-CIDR,100.20.244.159/32,no-resolve
+IP-CIDR,100.21.180.65/32,no-resolve
+IP-CIDR,54.70.102.10/32,no-resolve
+IP-CIDR,35.83.204.170/32,no-resolve
+IP-CIDR,54.203.190.157/32,no-resolve
+IP-CIDR,52.41.208.76/32,no-resolve
+IP-CIDR,44.224.49.77/32,no-resolve
+IP-CIDR,52.37.138.181/32,no-resolve
+IP-CIDR,100.20.244.159/32,no-resolve
+IP-CIDR,52.25.142.130/32,no-resolve
+IP-CIDR,54.148.214.206/32,no-resolve
