@@ -1,3 +1,4 @@
+PROCESS-NAME,ssh
 DOMAIN-SUFFIX,tcp.jp.ngrok.io
 DOMAIN-SUFFIX,tcp.ngrok.io
 DOMAIN-SUFFIX,github.com
