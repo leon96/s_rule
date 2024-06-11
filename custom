@@ -1,8 +1,7 @@
+DOMAIN,exhentai.org
 DOMAIN,api-js.mixpanel.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,bing.com
+DOMAIN,rent-gpus.netmind.ai
 DOMAIN-SUFFIX,c.58cdn.com.cn
-DOMAIN-SUFFIX,elb.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,k8slens.dev
 DOMAIN-SUFFIX,readthedocs.io
 DOMAIN-SUFFIX,redditmedia.com
@@ -10,3 +9,13 @@ DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,sysdig.com
 DOMAIN-SUFFIX,tracklog.58.com
 DOMAIN-SUFFIX,www.bingapis.com
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX.redditstatic.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,protago-dev.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,us-west-2.amazonaws.com
+DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,elb.us-west-2.amazonaws.com
+
