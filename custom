@@ -1,6 +1,6 @@
-DOMAIN,exhentai.org
-DOMAIN,api-js.mixpanel.com
-DOMAIN,rent-gpus.netmind.ai
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,netmind.ai
 DOMAIN-SUFFIX,c.58cdn.com.cn
 DOMAIN-SUFFIX,k8slens.dev
 DOMAIN-SUFFIX,readthedocs.io
@@ -18,4 +18,3 @@ DOMAIN-SUFFIX,us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,elb.us-west-2.amazonaws.com
-
